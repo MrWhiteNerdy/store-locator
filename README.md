@@ -1,6 +1,6 @@
 # Store Locator
 
-View and add store locations on a map
+View and add store locations on a map.
 
 ## Getting Started
 
